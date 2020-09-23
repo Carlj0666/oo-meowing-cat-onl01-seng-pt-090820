@@ -1,4 +1,4 @@
-class Cat(name)
+class Cat
   
   def name_maker
   attr_accessor = :name
